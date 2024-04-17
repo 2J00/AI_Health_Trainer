@@ -178,3 +178,4 @@ if len(angle) != 0:
 
 ---
 ### 전체 프로세스
+![process](https://github.com/2J00/AI_Health_Trainer/blob/main/process.PNG)
